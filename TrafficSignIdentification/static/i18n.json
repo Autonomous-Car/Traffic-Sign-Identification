@@ -1,0 +1,30 @@
+{
+    "@metadata": {
+        "default": "en",
+        "authors": [
+            "Hanming Li"
+        ]
+    },
+    "en": {
+        "ApplicationTitle": "OpenCV Self-Driving Demo on Google Maps",
+        "AndroidClient": "Welcome to download Android Client <a href=\"//hanming.li/dolphin/Metro.apk\">here</a>.",
+        "SourceFeedback": "Source code is hosted at <a href=\"https://github.com/DaZui/MetroSearch\">GitHub</a>. You may also <a href=\"mailto:jason@hanming.li\">send email</a> for feedback.",
+        "DeveloperName": "Hanming Li",
+        "Latitude": "Latitude",
+        "Longitude": "Longitude",
+        "Heading": "Heading",
+        "Pitch": "Pitch",
+        "Inquiry": "Inquiry"
+    },
+    "zh-CN": {
+        "ApplicationTitle": "OpenCV 自动驾驶感受演示",
+        "AndroidClient": "欢迎在<a href=\"//hanming.li/dolphin/Metro.apk\">这里</a>下载 Android 客户端。",
+        "SourceFeedback": "源码位于 <a href=\"https://github.com/DaZui/MetroSearch\">GitHub</a>。您亦可以<a href=\"mailto:jason@hanming.li\">致信</a>反馈。",
+        "DeveloperName": "李瀚明",
+        "Latitude": "纬度",
+        "Longitude": "经度",
+        "Heading": "航向",
+        "Pitch": "仰角",
+        "Inquiry": "查询"
+    }
+}

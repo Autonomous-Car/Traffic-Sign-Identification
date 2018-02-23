@@ -1,0 +1,23 @@
+﻿.LineName{
+	font-size:1em;
+    color:white;
+    background-color:black;
+    font-weight:bold;
+    }
+.Direction{
+	font-size:1em;
+    font-weight:bold;
+    }
+.StationName{
+	font-size:1em;
+    font-weight:bold;
+    }
+a.CityList{
+    margin:5px;
+    }
+#walkMap {width:100%; height: 300px; }  
+.tips
+{
+    overflow:auto;
+    height: 116px; 
+}
